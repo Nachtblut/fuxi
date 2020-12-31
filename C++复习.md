@@ -248,9 +248,9 @@ C++是用  **C** 实现接口重用的
 **从右往左**读，遇到 p 就替换成“p is a ”遇到 * 就替换成“point to”
 
 ```c++
-const int * p; //指针常量, p is a point to int const(p是一个指向整型常量的的指针), 可修改指针的指向, 不可修改指针指向的值
+const int * p; //常量指针, p is a point to int const(p是一个指向整型常量的的指针), 可修改指针的指向, 不可修改指针指向的值
 int const * p; //同上,p is a point const int
-int * const p; //常量指针, p is a const point to int(p是一个常量指针, 指向整型), 不可修改指针的指向, 可修改指针指向的值
+int * const p; //指针常量, p is a const point to int(p是一个常量指针, 指向整型), 不可修改指针的指向, 可修改指针指向的值
 ```
 
 > *象征着地址，const 象征着内容；
