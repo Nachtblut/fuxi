@@ -334,6 +334,8 @@ swear off 保证戒掉
 
 
 
+
+
 When I was on the flight the next day, I felt so nervous <u>**that**</u> I shook like a leaf.
 
 After a thorough investigation, the police found that the house <u>**had**</u> been broken into and a lot of things stolen.
@@ -374,9 +376,13 @@ Growing, adapting and changing takes a lot of internal work, but also **<u>bears
 
 
 
+
+
 > 油价不断上涨，世界各国都不同程度地受到了影响。
 >
 > > **With oil prices keeping on increasing, all the countries in the world have been affected (in) one way or another.**
+
+
 
 
 
@@ -386,9 +392,13 @@ Growing, adapting and changing takes a lot of internal work, but also **<u>bears
 
 
 
+
+
 > 迈克向他父亲保证他一定会全身心地投入即将到来的比赛。
 >
 > > **Mike assured his father that he would put his whole heart into the coming competition.**
+
+
 
 
 
@@ -398,9 +408,13 @@ Growing, adapting and changing takes a lot of internal work, but also **<u>bears
 
 
 
+
+
 > 中国人从小就相信英雄得具有大无畏和自我牺牲精神（self-sacrif ice）。当国家利益和个人利益相冲突时，英雄们总是选择牺牲自己。刘胡兰和董存瑞在中国家喻户晓。在1947年，15岁的刘胡兰由于积极投身中国解放运动而被敌人杀害。战士董存瑞手托炸药包（a pack of explosives），炸毁了敌人的碉堡（blockhouse），并献出了自己的生命。
 >
 > > **Chinese people are brought up to believe that a hero has to be associated with tremendous courage and self-sacrifice. Whenever there is a contradiction between the interest of the nation and that of their own, Chinese heroes always choose to sacrifice themselves. Both Liu Hulan and Dong Cunrui are household names in China. Liu was a 15-year-old girl killed by the enemy in 1947 for being actively involved in liberation of China. And Dong was a soldier who blew off the enemy blockhouse by holding a pack of explosives in his hand and lost his life in the explosion.** 
+
+
 
 
 
@@ -410,9 +424,13 @@ Growing, adapting and changing takes a lot of internal work, but also **<u>bears
 
 
 
+
+
 > 我们的结论立足于不可否认的事实和具体的数据。
 >
 > > **Our conclusion rests on undeniable facts and concrete statistics.**
+
+
 
 
 
@@ -422,9 +440,13 @@ Growing, adapting and changing takes a lot of internal work, but also **<u>bears
 
 
 
+
+
 > 他的粗心酿成大错。而且，他还不承认。
 >
 > > **His carelessness resulted in a serious blunder. What’s more, he refused to acknowledge it.** 
+
+
 
 
 
@@ -434,9 +456,13 @@ Growing, adapting and changing takes a lot of internal work, but also **<u>bears
 
 
 
+
+
 > 不同文化中的非语言交流（nonverbal communication）表现出极大的不同。中国文化重视间接和微妙（subtle）的方式，非语言交流在中国文化中特别重要。譬如，在中国，直接目光接触，尤其面对长者或上级，被认为是粗鲁之举。一些中国人可能将此解读为威胁或恐吓。年轻的中国人低下头，或是鞠躬，向长者表示敬意。握手一般是社会地位平等的人们之间的行为。另一个表示敬意的姿势是用双手呈上礼物或是名片
 >
 > > **Nonverbal communication in different cultures shows drastic differences. In Chinese culture, which values the indirect and subtle approach, nonverbal communication is especially important. For example, direct eye contact is considered rude in China, particularly with an elder or social superior. Some Chinese may interpret it as threatening or intimidating. Young Chinese people lower their heads and may bow slightly to show respect to an elder. Shaking hands is generally done only between people of equal social status. Another gesture of respect is presenting gifts and business cards with two hands.**
+
+
 
 
 
@@ -446,9 +472,13 @@ Growing, adapting and changing takes a lot of internal work, but also **<u>bears
 
 
 
+
+
 > 他吹嘘如何以最小的努力赢得了比赛。
 >
 > > **He bragged about how he won the race with minimal efforts.**
+
+
 
 
 
@@ -458,15 +488,21 @@ Growing, adapting and changing takes a lot of internal work, but also **<u>bears
 
 
 
+
+
 > 遵循健康的饮食并不一定意味着必须戒掉快餐。
 >
 > > **Following a healthy diet does not necessarily mean that one has to swear off fast foods.**
 
 
 
+
+
 >  汤姆承认在期末考试中作弊了。
 >
 > > **Tom confessed that he had cheated in the final exam.**
+
+
 
 
 
