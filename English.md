@@ -4,7 +4,7 @@
 
 trimming 装饰品；装饰
 
-seasoned 经验丰富的；老练的
+**seasoned 经验丰富的；老练的**
 
 jerk 颠婆；急拉，急推
 
@@ -16,7 +16,7 @@ accustomed 习惯的；通常的
 
 grave 严肃的；严重的
 
-**announcement 宣告，公告**     People familiar with the matter said that an official **announcement** could come as early as today.
+**announcement <u>`广播`</u>；宣告，公告**     People familiar with the matter said that an official **announcement** could come as early as today.
 
 hydraulic 液压的
 
@@ -65,6 +65,14 @@ strain 尽力，竭力
 destined 注定的，命定的
 
 waver 动摇；踌躇
+
+----
+
+**chipper 生机勃勃的**
+
+**professional 专业的**
+
+**experienced 经验丰富的**
 
 
 
@@ -164,13 +172,13 @@ high-powered 精力充沛的
 
 executive 行政的
 
-**coordinate 使协调，使协调**     They appointed a new manager to **corrdinate** the work of the team.
+**coordinate 使协调，使协调**     They appointed a new manager to **coordinate** the work of the team.
 
 **respective 各自的；分别的**     We all went back to our **respective** homes to wait for news.
 
 reschedule 重新计划
 
-immensely 非常；极大地
+**immensely 非常；极大地**     **immensely** honored 无比荣幸
 
 minimum 最小值
 
@@ -184,7 +192,7 @@ slacker 懒惰的人；懒鬼
 
 **odd 奇怪的；反常的**     Tom's reaction to Jane's announcement was **odd** ; he just started laughing.
 
-ridiculously 荒谬的
+**ridiculously 荒谬的**     invent a **ridiculously** complicated project 虚构了一个复杂而又荒谬的项目
 
 fax 传真
 
@@ -209,6 +217,8 @@ ultra- 极；超
 regimen 养生法
 
 **confess 承认；坦白**     The criminal refused to to **confess** the crime. 
+
+**calendar 日历**
 
 
 
@@ -242,14 +252,6 @@ on board 在船(或火车、公共汽车、飞机等)上
 
 fit on 安排时间见；抽身去干
 
-get down to 着手处理
-
-sleep in 睡过头
-
-turn down 拒绝
-
-swear off 保证戒掉
-
 **resorted to 诉诸于**     The manager **resorted to** swift penalties for anyone caught breaking the rules. 
 
 **bound for 驶往....的**     The last plane **bound for** Denmark will be leaving from Gate 3 soon. 
@@ -258,22 +260,27 @@ swear off 保证戒掉
 
 **have no stake 不管怎样**     I **have no stake** in how this competition ends, either way.
 
-**fit in**     If you just be yourself, you'll be sure to **fit in**
+**fit….in 安排时间见；抽身去做….**     If you just be yourself, you'll be sure to **fit in**
 
-**brag about**     It's nothing to **brag about** ! Just because you have a shiny car, doesn't make you better than anyone else. 
+**brag about 吹嘘**     It's nothing to **brag about** ! Just because you have a shiny car, doesn't make you better than anyone else. 
 
-**turn down**     I hate to do it, but I'm going to **turn down** that wonderful opportunity. I'm simply too busy to take it on.
+**turn down 拒绝**     I hate to do it, but I'm going to **turn down** that wonderful opportunity. I'm simply too busy to take it on.
 
-**sleep in**     I can't wait to **sleep in** this long weekend. 
+**sleep in 睡过头**     I can't wait to **sleep in** this long weekend. 
 
-**get down to**     Alright, let's **get down to** business; there isn't much time left.
+**get down to 着手处理**     Alright, let's **get down to** business; there isn't much time left.
 
-**swore off**     Lily **swore of** chocolate after she overate it at her party.
+**swore off 保证戒掉**     Lily **swore of** chocolate after she overate it at her party.
 
+**figure out 弄明白**
 
+**job flexibility 工作灵活性**
+
+**be obligated to 有义务有责任做...**
+
+**count for something 有价值，重要****
 
 # 课后
-
 
 **a flight headed for Atlanta**
 
@@ -334,8 +341,6 @@ swear off 保证戒掉
 **The sheer amount of work that has to get done is shocking**
 
 
------
-
 
 When I was on the flight the next day, I felt so nervous <u>**that**</u> I shook like a leaf.
 
@@ -375,137 +380,103 @@ Growing, adapting and changing takes a lot of internal work, but also **<u>bears
 >
 > > **Jeff tried to keep his composure and answer every question calmly when inquired by the policeman.**
 
-
------
-
+----
 
 > 油价不断上涨，世界各国都不同程度地受到了影响。
 >
 > > **With oil prices keeping on increasing, all the countries in the world have been affected (in) one way or another.**
 
-
------
-
+----
 
 > 他在会上提出了一系列可能避免环境污染的措施。
 >
 > > **At the meeting he proposed a series of measures that might ward off the environmental pollution.**
 
-
------
-
+----
 
 > 迈克向他父亲保证他一定会全身心地投入即将到来的比赛。
 >
 > > **Mike assured his father that he would put his whole heart into the coming competition.**
 
-
------
-
+----
 
 > 玛丽一旦下定决心，就绝不会动摇。 
 >
 > > **Mary will never waver once she makes up her mind.**
 
-
------
-
+----
 
 > 中国人从小就相信英雄得具有大无畏和自我牺牲精神（self-sacrif ice）。当国家利益和个人利益相冲突时，英雄们总是选择牺牲自己。刘胡兰和董存瑞在中国家喻户晓。在1947年，15岁的刘胡兰由于积极投身中国解放运动而被敌人杀害。战士董存瑞手托炸药包（a pack of explosives），炸毁了敌人的碉堡（blockhouse），并献出了自己的生命。
 >
 > > **Chinese people are brought up to believe that a hero has to be associated with tremendous courage and self-sacrifice. Whenever there is a contradiction between the interest of the nation and that of their own, Chinese heroes always choose to sacrifice themselves. Both Liu Hulan and Dong Cunrui are household names in China. Liu was a 15-year-old girl killed by the enemy in 1947 for being actively involved in liberation of China. And Dong was a soldier who blew off the enemy blockhouse by holding a pack of explosives in his hand and lost his life in the explosion.** 
 
-
------
-
+----
 
 > 爱德华登上飞往巴黎的飞机，对在遥远国度开启新生活感到激动不已。
 >
 > > **Excited at the prospect of starting a new life in a faraway country, Edward boarded on the plane bound for Paris.**
 
-
------
-
+----
 
 > 我们的结论立足于不可否认的事实和具体的数据。
 >
 > > **Our conclusion rests on undeniable facts and concrete statistics.**
 
-
------
-
+----
 
 > 两国未能在谈判中达成一致，于是付诸武力解决争端。
 >
 > > **Having failed to reach an agreement in the negotiations, the two countries resorted to force to settle the dispute.**
 
-
------
-
+----
 
 > 他的粗心酿成大错。而且，他还不承认。
 >
 > > **His carelessness resulted in a serious blunder. What’s more, he refused to acknowledge it.** 
 
-
------
-
+----
 
 > 作为一个团队，我们要尽力达到巅峰状态，因为我们的成功和每一个人都有利害关系。
 >
 > > **As a team, we should try our best to reach peak performance, since everyone of us has a stake in our success.**
 
-
------
-
+----
 
 > 不同文化中的非语言交流（nonverbal communication）表现出极大的不同。中国文化重视间接和微妙（subtle）的方式，非语言交流在中国文化中特别重要。譬如，在中国，直接目光接触，尤其面对长者或上级，被认为是粗鲁之举。一些中国人可能将此解读为威胁或恐吓。年轻的中国人低下头，或是鞠躬，向长者表示敬意。握手一般是社会地位平等的人们之间的行为。另一个表示敬意的姿势是用双手呈上礼物或是名片
 >
 > > **Nonverbal communication in different cultures shows drastic differences. In Chinese culture, which values the indirect and subtle approach, nonverbal communication is especially important. For example, direct eye contact is considered rude in China, particularly with an elder or social superior. Some Chinese may interpret it as threatening or intimidating. Young Chinese people lower their heads and may bow slightly to show respect to an elder. Shaking hands is generally done only between people of equal social status. Another gesture of respect is presenting gifts and business cards with two hands.**
 
-
------
-
+----
 
 > 既然我们有了可行的计划，那么就着手做吧。
 >
 > > **Now that we have a workable plan, let’s get down to it.**
 
-
------
-
+----
 
 > 他吹嘘如何以最小的努力赢得了比赛。
 >
 > > **He bragged about how he won the race with minimal efforts.**
 
-
------
-
+----
 
 > 不论有多忙，他总是每天试着抽出10分钟锻炼身体。
 >
 > > **No matter how busy he is, he always tries to fit in 10 minutes of exercise each day.**
 
-
------
-
+----
 
 > 遵循健康的饮食并不一定意味着必须戒掉快餐。
 >
 > > **Following a healthy diet does not necessarily mean that one has to swear off fast foods.**
 
-
------
-
+----
 
 >  汤姆承认在期末考试中作弊了。
 >
 > > **Tom confessed that he had cheated in the final exam.**
 
-
------
-
+----
 
 >  管理情绪和在压力之下保持镇静的能力与你的表现有直接关系。一项新研究表明适度的压力是有益的。研究发现在适度的压力之下，大脑生成新的细胞。成功人士有一些有效策略来应对压力环境，譬如，他们保持积极向上；他们感激所拥有的；他们避免问“要是……会如何？”等。事实证明，这些都是减少压力和提高表现的最佳方法。
 >
